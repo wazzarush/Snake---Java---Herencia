@@ -52,6 +52,3 @@ SnakePanel.java
 SnakeFrame.java
 Main.java
 ```
-
-## Autor
-_(completar con nombre y matrícula del estudiante)_
